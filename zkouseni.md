@@ -1,0 +1,10 @@
+- zývat - gähnen
+- otevřít oči - sich die Augen reiben
+- vyskočit z postele - aus dem Bett springen
+- počesat se - sich kammen
+- zvážit se - sich wiegen
+- obléct se - sich anziehen
+- trvat - dauert
+- bavit se - sich amusieren
+- narychlo - eilig
+- připravit - bereiten
