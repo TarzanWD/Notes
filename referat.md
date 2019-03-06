@@ -1,6 +1,7 @@
 ## Balady a romance
 - poezie
 - druh: lyricko epická báseň
+- 18
 - žánr: romance nebo balada, balady jsou spíš ale veselé romance nebo legendy
 - téma: náboženský, vlastenecký, láska
 - er forma + reč přímá
