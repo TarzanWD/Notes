@@ -1,0 +1,26 @@
+Dobrý den,
+
+chtěli bychom se zúčastnit říjnového semináře,
+který se zaměřuje na pomoc studentům s vypracováním jejich středoškolských prací.
+
+Jsme dva studenti šestiletého oboru se zaměřením na programování na Gymnáziu Vídeňská.
+Oba dva se už od dětství zajímáme o informatiku, nyní i pracujeme v oboru a ve volném čase se snažíme co nejvíc zlepšovat a rozšiřovat si obzory.
+Jedna z věcí, kterou ještě neumíme je elektrotechnika, která je součástí našeho tématu a kvůli které jsme se do něj pustili.
+Chceme se v ní zlepšit a naopak doufáme, že budeme schopni našemu tématu dát co nejvíc z naší již existující znalosti programování.
+
+Pracujeme na tématu "Sestrojení zařízení NB-Iot v rámci vize Průmysl 4.0 ve spolupráci s VUT FEKT.
+Na projektu jsme začali pracovat ještě před prázdninami a už jsme odvedli nemalou část práce - začali jsme důkladným prostudováním specifikace technolgie Narrowband IOT,
+zpracovali jsme mapu síly signálu na území Brna a okolí, abychom se ujistili, že v realitě jsou výsledky opravdu lepší, než u předchozích technoligií,
+a začali jsme se učit pájet.
+
+Věříme, že technologie NB-IoT, která tvoří samotné jádro projektu,
+by mohla být v budoucnu určující v projektech týkajících se IoT a zvláště pak konceptů Smart Cities,
+proto bychom chtěli přispět ať už co největším množstvím různých měření,
+prozkoumáním ostatních aspektů technologie(např. bezpečnostních),
+zlepšením ovládacího softwaru, tak i sestrojením zařízení,
+které by mělo sloužit k testování pokrytí signálu.
+
+Doufáme, že seminář by nás mohl posunout dále v sepisování naší práce, najít chyby,
+které děláme a měli bychom se jich vyvarovat a ukázat nám způsoby, jakým dosáhnout lepšího finálního výsledku.
+
+Marek Hradil, Daniel Geržičák
