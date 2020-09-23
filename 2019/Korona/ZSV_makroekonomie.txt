@@ -1,0 +1,27 @@
+a) Proč peníze občas neplní jednu ze svých základních fcí - uchovat hodnotu?
+    - kvůli inflaci
+b) Představte si, že země prochází ekonomickou krizí. Výroba je tlumena, firmy začínají propouštět, lidé nenakupují.
+- jakou podobu monetární politiky by měla zvolit centrální banka?
+    - expansivní měnovou politiku
+- jaké dva konkrétní nástroje by mohla použít, aby ekonomickou krizi začala léčit
+    - nutnost menších minimalních finančních rezerv
+    - vydat více peněz
+- vysvětlete své rozhodnutí
+    - vydat více peněz
+        - v oběhu bude více peněz, banky budou moct snížit úroky, dojde ke zlevnění půjček u bank
+    - nutnost menších minimalních finančních rezerv
+        - banky budou mít méně peněz blokovaných v rezervách, tudíž více s čím obchodovat
+c) Představte si, že se naopak národní ekonomice obrovsky daří, je minimální nezaměstnanost, HDP roste, lidé hodně utrácejí. Je v této situaci centrální banka také nadšená? Jak v této situaci uvažují bankéři ČNB? Vysvětlete svoji odpověď.
+- je třeba udržet(zmenšit expanzi) trhu
+- ČNB by nejspíš začla vydávat méně peněz, aby trochu zmírnila růst
+d) Jaká z těchto dvou situací odpovídá dnešní situaci epidemie koronaviru?
+- do minulého-předminulého týdne: hospodářsky růst
+- teď: výrazné zpomalení hospodářství, větší potřeba šetřit, pokles na burzách, velký pokles kurzu kryptoměn, možná budoucí hospodářská krize
+e) Máte volné finanční prostředky. Rozhodujete se mezi nákupem státních dluhopisů a nákupem akcií významné firmy. Jaké řešení byste zvolili a proč? Jak velká jsou v obou situacích případná rizika?
+- v této situaci spíše dluhopisy
+- akcie
+    - mohou hodně kolísat
+    - v době hospodářské krize budou nejspíše hodně klesat
+- dluhopisy
+    - stálejší
+    - jistější finanční zajištění

@@ -1,0 +1,12 @@
+- vyhledejte si na internetu (nejlépe stránky ministerstva financí) schválený rozpočet na r. 2020
+    - vyhledáno, čerpáno z https://www.mfcr.cz/assets/cs/media/Informacni-letak_2020_Statni-rozpocet-v-kostce.pdf
+- podívejte se na celkový objem příjmů a výdajů
+    - příjmy: 1 578 118 723 753 Kč
+    - výdaje: 1 618 118 723 753 Kč
+- o jaký typ rozpočtu se jedná (podle výše příjmů a výdajů)
+    - schodkový
+- jaké výdaje státu jsou nejvyšší (investice, neinvestiční výdaje, anebo soc. zabezpečení)
+    - sociální dávky - 40%, poté neinvestiční transfery - 12%
+- jste spokojeni s takovou strukturu rozpočtu? Vyargumentujte svůj názor.
+    - ne, není vhodné, aby byl rozpočet schodkový, když ČR zhruba od roku 2015 zažívá ekonomický růst(HDP rostlo od začátku r. 2014, ve čtvrtém kvartálu 2017 dokonce dosáhlo 5.5%)
+    - navíc rozpočet nyní neposkytuje vhodné finanční prostředky pro řešení dopadů krize

@@ -1,0 +1,33 @@
+1. Uveďte alespoň dva příklady protekcionismu v mez. obchodu a srovnejte jejich výhody a nevýhody.
+    - antidumpingové zákony
+        - výhody:
+            - domácí firmy jsou chráněny před většími mezinárodními, které by se je mohly pokusit zničit
+            - jsou více chráněny domácí produkty, které mohou přinášet jakousi přidanou hodnotu pro domácí spotřebitele
+        - nevýhody:
+            - větší cena produktů
+    - ochrana technologií a patentů, vědeckých poznatků
+        - výhody:
+            - vyšší výnos pro vaše patenty
+        - nevýhody:
+            - větší výdaje na patenty, které vy nevlastníte a tato politika v daném státě funguje
+
+2. Charakterizujte stručně G7(8) a G20.
+    - G8 - sdružení sedmi nejvyspělejších států světa, které představují 65% světové ekonomiky
+    - G20 - podobný princip jako G8, ale pro vícero států, které tvoří 85 % HDP, 80 % obchodu a 2/3 populace.
+
+3. Co bylo podstatou systému tzv. zlatého standardu?
+    - všechny měny byly směnitelné za zlato, kurz určoval podíl zlata v mincích
+
+4. Stručně charakterizujte WTO a OPEC.
+    - WTO - Světová obchodní organizace
+        - snaží se o otevřenost a rovnost trhu
+    - OPEC - Organizace zemí vyvážejících ropu
+        - sdružuje státy, které vyváží ropu, pomáhá vyjednávat ceny
+
+5. Vysvětlete princip přímého reexportu a jeho výhody.
+    - firma nakoupí zboží z ciziny a rovnou ho v jiné než domovské zemi prodá
+    - zboží vůbec neprojde zemí, kde firma sídlí
+    - výhoda je například obejití kvót nebo cel
+
+6. Česká koruna je plně konvertibilní s ostatními měnami. Vysvětlete tento pojem.
+    - je směnitelná všude na světě

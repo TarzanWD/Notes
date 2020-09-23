@@ -1,0 +1,11 @@
+2. a) zelená
+   b)
+        zelená oves - AA
+        zlatá oves - aa
+
+        F1: AA x aa -> Aa Aa Aa Aa, všechny zelené
+        F2: Aa x Aa -> AA Aa Aa aa, tři čtvrtiny zelené, zbytek zlatý 
+
+3. a) ta, která vytváří dlanité listy
+   b)
+   c)

@@ -1,0 +1,36 @@
+str.2:
+
+Dynamo       | Hromadná evakuace britských vojáků z Dunkirku | červen 1940 | 1. | pomáhalo i civilní obyvatelstvo, velké množství vojáků se podařilo zachránit
+Hood potopen | Potopení hlavní lodi britského námořnictva    | květen 1941 | 2. | explodoval muniční sklad, potopen křižníkem Bismark
+Omaha        | Vylodění spojeneckých vojsk v Normandii       | červen 1944 | 3. | obrovské ztráty, bombardéry nezaútočily přesně, většina tanků nedorazila
+
+str.3:
+
+Fat Man        | svržení atomové bomby na Nagasaki | srpen 1945    | 3. | na sklonku války, test a demonstrace síly USA, masakr civilního obyvatelstva?
+Ora et labora  | bitva o Monte Cassino             | leden 1944    | 2. | jedna z nejdelších bitev druhé světové války
+Tora tora tora | útok na Pearl Harbor              | prosinec 1941 | 1. | překvapivý útok japonska, následně vstup USA do války
+
+str.4:
+
+N.K.V.D    | Katyňský masakr(Sovětské masakry vězňů)  | 5. března 1940  | 2. | v Polsku a na Ukrajině, prováděny tajnou službou NKVD
+Na frontu  | Velká vlastenecká válka                  | 22. června 1941 | 3. | střet Německa se Sovětským svazem, první velké porážky nacistického Německa
+Mannerheim | Zimní válka                              | listopad 1939   | 1. | střet Finska s Sovětským svazem, finský velitel sil Mannerheim(1867-1951), dále pak prezident v letech(1944-1946) 
+
+str.5:
+
+Blitzkrieg | Invaze do Francie            | 10. květen 1940 | 2. | aplikace konceptu bleskové války, rychlý průnik motorizované pěchoty
+Bez boje   | Okupace zbytku Čech a Moravy | březen 1939     | 1. | zabrání zbytku republiky po okupaci Sudet, bez většího odporu nebo odezvy
+St. Paul   | Bitva o Británii(Blitz)      | září 1940       | 3. | bombardování Londýna, St. Paul - jediná nezasažená londýnská katedrála
+
+
+str.6:
+
+N.Y       | Oslavy konce 2. světové války | srpen 1945 | 3. | lidé samovolně vyšli do ulic, symbol konce války
+Suribachi | Bitva o Iwodžimu              | únor 1945  | 1. | důvod byl obsazení letiště z kterého by USA mohla podnikat nálety na japonské ostrovy
+Reichstag | Bitva o Berlín                | duben 1945 | 2. | dobytí Berlína, fotka následně popularizována v SSSR, musela projít změnami, protože většina vojáků na fotkách má rovnou dvoje hodinky -> krádeže
+
+str.7:
+
+Appeasment | Mnichovská dohoda         | září 1938 | 1. | politika ústupků Hitlerovi, později kritizována, vyhovění připojení sudet k Německu
+Krym       | Jaltská konference        | únor 1945 | 3. | o poválečném uspořádání Polska, vznik OSN, postoj SSSR k Japonsku 
+O Polsku   | Ribbentrop – Molotov pakt | září 1939 | 2. | tajný pakt mezi Německem a SSSR, domluvení spolupráce při okupaci Polska, jeho rozdělení

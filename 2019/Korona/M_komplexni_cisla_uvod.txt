@@ -1,0 +1,50 @@
+Přemýšlel jsem, jak dodat něco zajímavého co by nebylo čistě na počty a projížděl jsem hojně internet.
+Narazil jsem na video sérii o komplexních číslech, kterou už jsem kdysi viděl a přijde mi hrozně zajímavá.
+Taky je celkem dost známá, takže se možná nebude jednat pro vás o nic nového.
+
+Přikládám link:
+https://www.youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF
+
+V jednom z videí se vyskytuje tento příklad, který mi přišel,
+že je pro nás řešitelný "naší" cestou a lze si skrz něj pěkně procvičit operace s komplexními čísly.
+
+---------------------------------------------------
+
+Najděte všechny tři kořeny rovnice "x^3 = 1".
+Vezměme taky v potaz že: "a^3 - b^3", lze upravit jako "(a - b)(a^2 + b^2 + ab)"
+
+---------------------------------------------------
+
+
+Řešení:
+
+x^3 - 1 = 0
+(x - 1)(x^2 + 1 + x) = 0
+
+Můžeme rozdělit na dva příklady:
+
+x - 1 = 0
+x = 1
+
+x^2 + x + 1 = 0
+
+D = 1 - 4 . 1 . 1
+D = -3
+
+x1 = (-1 + 3i) / 2 => -1/2 + 3/2i
+x2 = (-1 - 3i) / 2 => -1/2 - 3/2i
+
+Kořeny jsou:
+
+1, -1/2 + 3/2i, -1/2 - 3/2i
+
+------------------------------------------------------
+
+
+Co je nejzajímavější na tomhle příkladě je geometrické řešení, které je zpracované v dílech 7 a 8.
+Přijde mi hrozně elegantní a effektivní, jen jsem nevěděl, jak na něj vymyslet příklad, protože je potřeba uvědomovat si víc věcí.
+
+------------------------------------------------------
+
+Doufám že je to takhle ok. Nejsou to moje myšlenky, tak doufám že to nevadí,
+spíš mi to přišlo fascinující a tak jsem to chtěl sdílet s vámi a případně s ostatními.

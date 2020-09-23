@@ -1,0 +1,12 @@
+Látkový metabolismus je proces přeměny látek, které vstupují do organismu, získání energie z nich a jejich rozklad na jednodušší látky.
+- katabolické děje - děje kdy se látky rozkládají na jednodušší
+- anabolické děje - děje kdy se vytvářejí složitější látky z jednodušších
+
+- fototrofní - příjem energie ze slunečního svitu, prostřednictvím fotosyntézy
+- chemotrofní - příjem energie z chemických sloučenin, prostřednictvím metabolismu
+
+- autotrofní - hlavním zdrojem energie je oxid uhličitý
+- heterotrofní - hlavním zdrojem energie jsou jiné látky
+
+- organotrofní - získávání energie z organických látek
+- litotrofní - získávání energie z jiných organismů

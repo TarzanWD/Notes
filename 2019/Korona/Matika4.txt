@@ -1,0 +1,225 @@
+31/9
+a)
+
+Pro určení vzájemné polohy je nejlepší nejprve určit normálové vektory rovin.
+α: [1, -1, 2]
+ß: [1, 1, 2]
+
+Nyní je vidět, že vektory nemůžou být vzájemným násobkem. Jsou tedy různoběžné.
+
+Průsečnici dostaneme jako výsledek soustavy rovnic obou rovin.
+
+α: x - y + 2z = 4
+ß: x + y + 2z = 0
+
+Tuto soustavu lze vyřešit tak, že jedna neznámá se zvolí za parametr.
+
+t = y
+x - t + 2z = 4
+x + t + 2z = 0
+
+Z tohoto postupně vyjádříme všechny proměnné.
+
+2z = x + t
+z = (x + t) / 2
+
+x - t + x + t = 4
+2x = 4
+x = 2
+
+z = (2 + t) / 2 = 1 + 1/2t
+
+2 - y + 2t = 4
+y = 2 + 2t - 4
+y = -2 + 2t
+
+x = 2
+y = -2 + 2t
+z = t
+
+Potom lze provést zpětnou kontrolu.
+Pokud t = 0
+
+α: 2 -(-2) = 4
+ß: 2 + (-2) = 0
+
+
+b)
+
+Opět opakujeme stejný postup.
+α: [1, -1, 2]
+ß: [-1, 1, -2]
+
+Zde lze vidět, že roviny nejsou různoběžné, protože pokud jeden vektor vynásobíme -1, dostaneme ten druhý.
+
+32/11
+
+a)
+
+Nejprve potřebujeme směrové vektory rovin.
+
+rovina1: u1 = (-2, 0, -1), v1 = (-2, -2, 1)
+rovina2: u2 = (1, -1, -1), (-2, 0, 1)
+
+Nyní potřebujeme najít kolmý vektor na oba tyto vektory v každé rovině.
+To uděláme vektorovým součinem obou vektorů.
+
+rovina1:
+w1 = u1 × v1
+w1 = (-2, 4, 4)
+
+rovina2:
+w2 = u2 × v2
+w2 = (-1, 1, -2)
+
+Nyní vidíme, že vektory nejsou násobkem -> jsou různoběžné.
+
+Najdeme obecnou rovnici rovin.
+
+rovina1: -2x + 4y + 4z + d = 0
+rovina2: -x + y -2z + d = 0
+
+Pro výpočet d, dosadíme bod, který známe z parametrického vyjádření.
+
+rovina1: -6 + 12 + 16 + d = 0 => d = -22
+rovina2: 3 - 2 + d = 0 => d = -1
+
+Nyní známe celou obecnou rovnici a můžeme aplikovat stejný postup jako minule.
+
+-2x + 4y + 4z -22 = 0
+-x + y - 2z -1 = 0
+
+Zvolíme t = y
+
+-2x + 4t + 4z = 22
+-x + t - 2z = 1
+
+
+x = t - 2z - 1
+-2(t-2z-1) + 4t + 4z = 22
+-2t + 4z + 2 + 4t + 4z = 22
+2t + 8z = 20
+t + 4z = 10
+z = 10/4 - t/4
+
+-2x + 4t + 4(10/4 - t/4) - 22 = 0
+-2x + 4t + 10 - t - 22 = 0
+-2x + 3t -12 = 0
+2x = 3t - 12
+x = 3/2t - 6
+
+-(3t/2 - 6) + y - (10/4 - t/4) = 1
+-3t/2 + 6 + y -10/4 + t/4 = 1
+-6t/4 + 6 + y -10/4 + t/4 = 1
+-5t/4 + 5 + y = 0
+y = -5t/4 - 5
+
+Rovnice průsečice je: [3/2t - 6, -5t/4 - 5, 10/4 - t/4]
+
+34/25
+a)
+
+Zde stačí do obecné rovnice dosadit parametrickou
+
+2(3 - t) - 4(2 + t) + 2(2 + 3t) - 2 = 0
+6 - 2t -8 - 4t + 4 + 6t - 2 = 0
+0t = 0
+
+Přímka je v rovině.
+
+b)
+
+2(3 - t) - 4(2 + t) + (2 + 3t) = 0
+
+6 - 2t - 8 -4t + 2 + 3t  = 0
+t = 0
+
+Dostáváme parametr t = 0.
+Zde stačí zpět dosadit do předpisu přímky.
+
+x = 3
+y = 2
+z = 2
+
+34/26
+
+a)
+
+Převedeme rovinu do obecného vyjádření:
+
+u = (1, -1, -1)
+v = (-2, 0, 1)
+
+w = u × v  = (-1, 1, -2)
+
+-x + y - 2z - d = 0
+
+Dosadíme [0, 3, -1]
+
+d = 3 + 2
+d = 5
+
+Celá rovnice:
+
+-x + y -2z - 5 = 0
+
+Dosadíme parametrické vyjádření přímky:
+
+-(3 - 2t) + 3 - 2(4 - t) - 5 = 0
+-3 + 2t + 3 -8 + 2t - 5 = 0
+4t - 13 = 0
+t = 13/4
+
+Toto zpět dosadíme do předpisu:
+
+x = 3 - 13/2 = -7/2
+y = 3
+z = 4 - 13/4 = 3/4
+
+b)
+
+Opakujeme postup:
+
+u = (3, 28, 10)
+v = (-1, -12, -2)
+w = u × v = (64, -4, -8)
+
+64x - 4y - 8z - d = 0
+
+Dosadíme [4, 3, 1]
+
+256 - 12 - 8 - d = 0
+d = 236
+
+
+64x - 4y - 8z - 236 = 0
+64(3 + t) - 4(-1 + t) - 8(1 + 3t) - 236 = 0
+192 + 64t + 4 -4t -8 - 24t - 236 = 0
+-44 + 64t + 4 - 4t - 8 - 24t = 0
+-40 + 40t -4t = 0
+36t = 40
+t = 40 / 36
+t = 10 / 9
+
+x = 3 + 10/9 => 37/9
+y = -1 + 10/9 => 1/9
+z = 1 + 30/9 => 39/9
+
+36/32
+
+Lze jednodušše vyjádřit parametricky:
+
+K[3,2,1]
+u = (1, 0, 1)
+v = (0, 1, 1)
+
+x = 3 + t
+y = 2 + s
+z = 1 + t + s
+
+Popřípadě poté převést na obecnou:
+
+w = u × v
+w = (1, -1, 1)
+
+x - y + z = 0

@@ -1,0 +1,151 @@
+20/6
+
+a)
+
+A[0, 2, -1] B[-2, 7, 1]
+
+Pro parametrické vyjádření je třeba vektor a bod.
+Body máme, takže je třeba ještě vyjádřit směrový vektor.
+
+u = A - B
+u = [0, 2, -1] - [-2, 7, 1]
+u = (2, -5, -2)
+
+Následně stačí dosadit do vzorce vzhledem k nějakému bodu, zde použitý A.
+
+x = 2t
+y = 2 - 5t
+z = -1 - 2t
+
+b)
+
+Zde je postup obdobný.
+
+K[4, 4, 4] L[-2, 1, 4]
+
+u = K - L
+u = (6, 3, 0)
+
+x = 4 + 6t
+y = 4 + 3t
+z = 4
+
+23/18
+
+Pro parametrické vyjádření roviny jsou potřeba jeden bod a dva vektory.
+Body již máme zadané, stačí z nich tedy dostat vektory.
+
+u = B - A  = (1, -1, 3)
+v = B - C = (-1, 0, -1)
+
+Dále jen stačí dosadit.
+Zvolen bod C.
+
+x = 3 + t - s
+y = 1 - t
+z = 1 + 3t - s
+
+24/22
+
+Rovinu lze definovat bodem a přímkou, jen tehdy, pokud bod neleží na přímce.
+To lze jednoduše ověřit dosazením do předpisu -> pokud rovince vyjde => parametr bude pro všechny tři souřadnice stejný, bod leží na přímce.
+
+a)
+
+x: 2 = 1 + 3t
+y: 3 = -5 -5
+z: -1 = 4
+
+Ještě před dalším postupem vidíme, že -1 se nerovná 4.
+Z toho lze usoudit, že bod neleží na přímce a rovinu lze zkonstruovat.
+
+b)
+
+x: 2 = 2t => t = 1
+y: 0 = 1 - t => t = 1
+z: 1 = -2 + 3t => t = 1
+
+Bod leží na přímce, rovinu nelze zadat jen takto.
+
+25/29
+
+a)
+
+Normálový vektor dostaneme, když vektorově vynásobíme směrové vektory roviny.
+
+v = a × b = (1 - 10; -4 - 1; 5 + 2) = (-9; -5; 7)
+
+b)
+
+Dále jen stačí využít již vypočíteného normálového vektoru a dosadit ho do předpisu.
+
+-9x -5y + 7z + d = 0
+
+Ještě je třeba vypočítat proměnnou d. Tu ovšem zde můžeme zanedbat, jelikož rovina prochází počátkem soustavy.
+
+-9x -5y + 7z = 0
+
+27/33
+
+a)
+
+a: 2x + y - y + 4 = 0
+
+Zde je potřeba is uvědomit, že z obecného předpisu jsme schopni přímo dostat jen normálový vektor, který nám ovšem tolik nepomůže.
+Lze ale zvolit jiný postup, pokud si uvědomíme že:
+
+U jakékoliv roviny, bod s dvěmi náhodně zvolenými souřadnicemi a třetí vypočítanou dle předpisu, bude vždy ležet na rovině.
+Takto lze dopočítat tři body, dle kterých vypočítáme parametrický předpis.
+Zde postupně všude dosadím souřadnice 1,1 a poslední dopočítám.
+
+0 = 2 + 1 - z + 4
+z = 7
+
+0 = 2 + y - 1 + 4
+y = -5
+
+0 = 2x + 1 - 1 + 4
+x = -2
+
+Dostáváme tři body:
+A[1, 1, 7]
+B[1, -5, 1]
+C[-2, 1, 1]
+
+Nyní z nich vypočítáme směrové vektory.
+
+u = A - B = (0; 6; 6)
+v = A - C = (3; 0; 6)
+
+Ted již jen stačí zvolit bod a dosadit do předpisu.
+Zvolen bod A.
+
+x = 1 + 3s
+y = 1 + 6t
+z = 7 + 6t + 6s
+
+b)
+
+Opakujeme stejný postup, přičemž je ale třeba nejprve rovnici upravit do patřičného tvaru.
+
+b: x - 7z = 4
+b: x - 7z - 4 = 0
+
+0 = x - 7 - 4
+x = 11
+
+y = 0
+
+0 = 1 - 7z - 4
+z = -3/7
+
+A[11, 1, 1]
+B[1, 0, 1]
+C[1, 1, -3/7]
+
+u = A - B = (10, 1, 0)
+v = A - C = (10, 0, 4/7)
+
+x = 11 + 10t + 10s
+y = 1 + 1t
+z = 1 + 4/7s

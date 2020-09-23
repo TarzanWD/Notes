@@ -1,0 +1,27 @@
+Ssv, Makroekonomie, A:
+1. Stručně charakterizujte základní sektory národního hospodářství.
+    - primární - zemědělství, lesnictví, těžba nerostných surovin
+    - sekundární - průmysl, stavebnictví
+    - terciální - služby, kultura
+    - kvartální - věda, výzkum
+2. Jaká instituce měří inflaci a jakým způsobem?
+    - Český statistický úřad
+    - na vzorku výrobků a služeb se změří změna ceny v čase
+3. Graficky znázorněte křivku hospodářského cyklu, graf i křivku popište. Jaká je délka hospodářského cyklu?
+    - přiloženo v příloze
+    - délka: rok a půl až tři roky
+4. Jaké jsou základní fce peněz?
+    - pro směnu za zboží a služby
+    - měřítko kvality zboží a služeb
+    - forma majetku
+5. Co sleduje ČNB, pokud zvyšuje úrokové sazby u půjček pro komerční banky?
+    - snaží se zdražit půjčky a tím pádem zmírnit ekonomický růst
+6. Jaký je rozdíl mezi deflací, inflací a stagflací
+    - inflace - růst cenové hladiny
+    - deflace - opak inflace, pokles cenové hladiny
+    - stagflace - vysoká inflace a vysoká nezaměstnanost
+7. Co je tzv. cyklická nezaměstnanost?
+    - nezaměstanost v době recese
+8. Vysvětlete pojmy monetární a fiskální politika. Jaké instituce je provádějí?
+    - monetární - proces zajištění stabilního hospodářského růstu, provádí ČNB
+    - fiskální - proces přerozdělování finančních prostředků ve státě, provádí stát
